@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Local dataset - NEVER commit
+data/
+*.csv
+
+# Generated outputs
+outputs/
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
