@@ -1,2 +1,4 @@
 pandas==2.2.3
-pytest==9.1.1
+fastapi
+uvicorn
+pydantic
